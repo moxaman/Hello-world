@@ -1,2 +1,3 @@
 # Hello-world
-My first repository
+This is My first repository
+I want to learn JavaScript
